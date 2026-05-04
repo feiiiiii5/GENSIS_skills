@@ -1,4 +1,4 @@
-# GENESIS Activation Prompt
+# GENESIS self-evolve Activation Prompt
 
 ---
 
