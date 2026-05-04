@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 self-evolve
+# 🧬 GENSIS
 
 **An autonomous self-improvement skill for Claude**
 *Invoke once. Let it work for hours. Get production-ready code.*
@@ -14,7 +14,7 @@
 
 ## What Is This?
 
-`self-evolve` is a Claude skill that transforms the AI into a **self-directed senior engineering agent**. Once activated, Claude autonomously:
+`GENSIS` is a Claude skill that transforms the AI into a **self-directed senior engineering agent**. Once activated, Claude autonomously:
 
 1. Audits your codebase across 6 engineering dimensions
 2. Prioritizes and fixes issues in dependency order
@@ -72,7 +72,7 @@ Exit conditions:
 
 ## Installation
 
-1. Download [`self-evolve/SKILL.md`](self-evolve/SKILL.md)
+1. Download [`GENSIS/SKILL.md`](GENSIS/SKILL.md)
 2. Open [claude.ai](https://claude.ai) → Settings → Skills → Upload
 
 ---
@@ -80,7 +80,7 @@ Exit conditions:
 ## Usage
 
 ```
-"Self-evolve my current project"
+"GENSIS my current project"
 "Review and iteratively improve this codebase"
 "Run a full audit and keep optimizing until it's production-ready"
 "Evolve this code — I'll check back in an hour"
